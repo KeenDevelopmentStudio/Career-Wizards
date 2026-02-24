@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Outer_Skies_Instrumental",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":227.91837,
+  "exportDir":"",
+  "name":"Outer_Skies_Instrumental",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Outer_Skies_Instrumental.mp3",
+  "volume":1.0,
+}
